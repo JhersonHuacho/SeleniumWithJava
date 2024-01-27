@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6ba45e5c-0b48-46cf-b49a-714fee7b4a3e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../SeleAutomation04-01/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleAutomation04-01/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleAutomation04-01/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleAutomation04-01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleAutomation04-01/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleAutomation04-01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleAutomation04-01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleAutomation04-01/src/main/java/com/orange/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleAutomation04-01/src/test/java/com/orange/tests/LoginDPTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleAutomation04-01/src/test/java/com/orange/tests/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleAutomation04-01/src/test/java/com/orange/tests/TestNGTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleAutomation04-01/src/test/java/com/orange/utils/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleAutomation04-02/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleAutomation04-02/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleAutomation04-02/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleAutomation04-02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleAutomation04-02/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleAutomation04-02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleAutomation04-02/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleAutomation04-02/src/main/java/com/orange/test/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleAutomation04-02/src/main/java/com/orange/utils/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleAutomation04-02/src/test/java/com/orange/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/orange/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/orange/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleAutomation04-04/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleAutomation04-04/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleAutomation04-04/src/main/java/com/orange/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleAutomation04-04/src/test/java/com/orange/AmazonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleAutomation04-04/src/test/java/com/orange/CheckoutTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2b1BFUE5PRWeIZ8EdBsBon2C2my" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-249ae16d76d6-a618e4d4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ba45e5c-0b48-46cf-b49a-714fee7b4a3e" name="Changes" comment="" />
+      <created>1705372601767</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705372601767</updated>
+    </task>
+    <servers />
+  </component>
+</project>
